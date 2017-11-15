@@ -8,13 +8,6 @@ System.config({
     "kendo.*": "jspm_packages/github/npm/progress/kendo-ui@2017.3.1026/js/kendo.*.js",
     "kendo-ui/*": "jspm_packages/npm/@progress/kendo-ui@2017.3.1026/*"
   },
-  meta: {
-    "bootstrap": {
-      "deps": [
-        "jquery"
-      ]
-    }
-  },
   map: {
     "@progress/kendo-ui": "npm:@progress/kendo-ui@2017.3.1026",
     "aurelia-animator-css": "npm:aurelia-animator-css@1.0.1",

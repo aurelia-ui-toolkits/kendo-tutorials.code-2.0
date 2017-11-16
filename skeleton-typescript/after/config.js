@@ -9,7 +9,6 @@ System.config({
     "kendo-ui/*": "jspm_packages/npm/@progress/kendo-ui@2017.3.1026/*"
   },
   map: {
-    "@progress/kendo-ui": "npm:@progress/kendo-ui@2017.3.1026",
     "aurelia-animator-css": "npm:aurelia-animator-css@1.0.1",
     "aurelia-bootstrapper": "npm:aurelia-bootstrapper@1.0.0",
     "aurelia-fetch-client": "npm:aurelia-fetch-client@1.0.1",
@@ -25,6 +24,7 @@ System.config({
     "aurelia-templating-resources": "npm:aurelia-templating-resources@1.5.4",
     "aurelia-templating-router": "npm:aurelia-templating-router@1.0.0",
     "bluebird": "npm:bluebird@3.4.1",
+    "@progress/kendo-ui": "npm:@progress/kendo-ui@2017.3.1026",
     "bootstrap": "github:twbs/bootstrap@3.3.7",
     "css": "github:systemjs/plugin-css@0.1.36",
     "fetch": "github:github/fetch@1.0.0",

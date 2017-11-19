@@ -1,6 +1,6 @@
 import 'kendo-ui/js/kendo.autocomplete';
 
-export class autocomplete{
+export class autocomplete {
   constructor() {
     this.datasource = {
       transport: {
@@ -10,5 +10,5 @@ export class autocomplete{
         }
       }
     };
-  }    
+  }
 }

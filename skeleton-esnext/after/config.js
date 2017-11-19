@@ -11,11 +11,11 @@ System.config({
     "*": "dist/*",
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*",
-    "kendo.*": "jspm_packages/github/npm/progress/kendo-ui@2017.3.1026/js/kendo.*.js",
-    "kendo-ui/*": "jspm_packages/npm/@progress/kendo-ui@2017.3.1026/*"
+    "kendo.*": "jspm_packages/github/npm/progress/kendo-ui@2017.3.1116/js/kendo.*.js",
+    "kendo-ui/*": "jspm_packages/npm/@progress/kendo-ui@2017.3.1116/*"
   },
   map: {
-    "@progress/kendo-ui": "npm:@progress/kendo-ui@2017.3.1026",
+    "@progress/kendo-ui": "npm:@progress/kendo-ui@2017.3.1116",
     "aurelia-animator-css": "npm:aurelia-animator-css@1.0.4",
     "aurelia-bootstrapper": "npm:aurelia-bootstrapper@1.0.1",
     "aurelia-fetch-client": "npm:aurelia-fetch-client@1.1.3",
@@ -38,7 +38,6 @@ System.config({
     "css": "github:systemjs/plugin-css@0.1.36",
     "fetch": "github:github/fetch@1.1.1",
     "font-awesome": "npm:font-awesome@4.6.3",
-    "jquery": "npm:jquery@2.2.4",
     "text": "github:systemjs/plugin-text@0.0.8",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.4.1"
@@ -61,7 +60,7 @@ System.config({
     "github:twbs/bootstrap@3.3.7": {
       "jquery": "npm:jquery@3.0.0"
     },
-    "npm:@progress/kendo-ui@2017.3.1026": {
+    "npm:@progress/kendo-ui@2017.3.1116": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.1",
       "jquery": "npm:jquery@3.0.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
